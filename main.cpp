@@ -6,3 +6,5 @@ int y;
 int sum=x+y;
 
 }
+
+cout<<sum;
