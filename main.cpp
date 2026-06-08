@@ -7,4 +7,4 @@ int sum=x+y;
 
 }
 
-cout<<sum;
+cout<<sum+x;
